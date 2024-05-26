@@ -19,7 +19,7 @@ const Splash = () => {
       <div className="text-center">
         <div className="relative">
           <div className="w-24 h-24 border-t-8 border-b-8 border-gray-200 rounded-full"></div>
-          <div className="absolute top-0 left-0 w-24 h-24 border-t-8 border-b-8 border-blue-500 rounded-full animate-spin">
+          <div className="absolute top-0 left-0 w-24 h-24 border-t-8 border-b-8 border-green-500 rounded-full animate-spin">
           </div>
         </div>
         <div className="mt-4 font-semibold text-gray-700">Loading</div>
