@@ -52,7 +52,7 @@ const LandingPage = () => {
         <div>
           <h1 className="text-5xl font-black text-transparent transition-opacity duration-500 animate-text bg-gradient-to-r from-green-600 via-green-800 to-orange-300 bg-clip-text">Hi, I am Samarawicrama</h1>
           <h3 className="mt-2 text-2xl text-gray-600 transition-opacity duration-1000">My esteemed goal is to leverage my scientific expertise in agriculture to empower my clients, <br/>helping them cultivate and harvest the maximum benefits from their endeavors.</h3>
-          <button onClick={handleHireMeClick} className="px-6 py-3 mt-8 text-white bg-blue-500 rounded-md hover:bg-blue-600">
+          <button onClick={handleHireMeClick} className="px-6 py-3 mt-8 text-white bg-green-700 rounded-md hover:bg-green-900">
                 Hire Me
             </button>        </div>
       </div>

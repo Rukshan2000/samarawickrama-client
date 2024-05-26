@@ -3,7 +3,7 @@ import TopNav from '../components/TopNav';
 import TopNavSm from '../components/TopNavSm';
 import LandingPage from '../components/LandingPage';
 import About from '../components/About';
-import Projects from '../components/Projects';
+// import Projects from '../components/Projects';
 import Button from '../components/Button';
 import Contact from '../components/Contact';
 import Footer from '../components/Footer';
@@ -57,9 +57,9 @@ const HomePage = () => {
       <section id="about">
         <About />
       </section>
-      <section id="projects">
+      {/* <section id="projects">
         <Projects />
-      </section>
+      </section> */}
       <section id="contact">
         <Contact />
       </section>
